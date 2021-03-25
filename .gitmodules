@@ -1,3 +1,12 @@
 [submodule "repos/h5p-branching-scenario"]
 	path = repos/h5p-branching-scenario
 	url = git@github.com:Shopify-CHEO-Hackdays/h5p-branching-scenario.git
+[submodule "repos/h5p-editor-branching-scenario"]
+	path = repos/h5p-editor-branching-scenario
+	url = git@github.com:Shopify-CHEO-Hackdays/h5p-editor-branching-scenario.git
+[submodule "repos/h5p-greeting-card"]
+	path = repos/h5p-greeting-card
+	url = git@github.com:Shopify-CHEO-Hackdays/h5p-greeting-card.git
+[submodule "repos/h5p-branching-question"]
+	path = repos/h5p-branching-question
+	url = git@github.com:Shopify-CHEO-Hackdays/h5p-branching-question.git
