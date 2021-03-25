@@ -14,7 +14,7 @@ Steps:
 4. Go to [the module install page](http://localhost/admin/modules/install) and enable the "Update Manager" module
 5. Install the [h5p Drupal plugin](https://ftp.drupal.org/files/projects/h5p-7.x-1.46.tar.gz) by uploading the file from the link above. Upon successful installation, click "Enable newly installed modules", then scroll to the bottom of the page to enable H5P and H5P Editor. Upon saving you will get an error message saying that the PHP max upload size is quite small (2 MB). We'll ignore this for now.
 6. Navigate to Configuration > System > H5P (http://localhost/admin/config/system/h5p) and then check the two checkboxes labelled _Enable H5P development mode_ and _Enable library development directory._
-7. Go to `Content -> Add Content -> Interactive Content` and install the Interactive Video component. This initializes the folder structure. 
+7. Go to `Content -> Add Content -> Interactive Content` and install the Branching Scenario component. This initializes the folder structure and installs missing dependencies. 
 8. SSH into the container: `docker exec -it $(docker ps -aqf "name=drupal") bash`
 9. Create a symbolic link
 ```bash
