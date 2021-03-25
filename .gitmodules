@@ -13,3 +13,6 @@
 [submodule "repos/h5p-interactive-video"]
 	path = repos/h5p-interactive-video
 	url = git@github.com:Shopify-CHEO-Hackdays/h5p-interactive-video.git
+[submodule "repos/h5p-editor-branching-question"]
+	path = repos/h5p-editor-branching-question
+	url = git@github.com:Shopify-CHEO-Hackdays/h5p-editor-branching-question.git
