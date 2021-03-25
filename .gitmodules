@@ -1,0 +1,3 @@
+[submodule "repos/h5p-branching-scenario"]
+	path = repos/h5p-branching-scenario
+	url = git@github.com:Shopify-CHEO-Hackdays/h5p-branching-scenario.git
