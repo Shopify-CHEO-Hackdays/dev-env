@@ -25,7 +25,8 @@ ln -s /mnt/h5pdev/ development
 # When done, exit the shell using:
 exit
 ```
-10. Don't create any yet but if you go to `Content -> Add Content -> Interactive Content` you should see our custom components. Follow the steps below first
+
+That's it for Drupal set up - the steps below will set everything up for development.
 
 ## Developing individual component repositories
 1. Install webpack: `npm i -g webpack`
