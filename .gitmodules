@@ -16,3 +16,6 @@
 [submodule "repos/h5p-editor-branching-question"]
 	path = repos/h5p-editor-branching-question
 	url = git@github.com:Shopify-CHEO-Hackdays/h5p-editor-branching-question.git
+[submodule "repos/h5p-editor-show-when"]
+	path = repos/h5p-editor-show-when
+	url = git@github.com:Shopify-CHEO-Hackdays/h5p-editor-show-when.git
